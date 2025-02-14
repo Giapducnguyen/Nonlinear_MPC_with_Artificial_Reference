@@ -7,7 +7,7 @@ This repository contains a simulation demonstration for the paper:
 _In Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held jointly with 2009 28th Chinese Control Conference (pp. 7978-7983). IEEE._  
 
 ## **Recommended References**  
-For a deeper understanding of robust tube-based MPC and related concepts, the following paper and the references therein are recommended:  
+For a deeper understanding of Nonlinear MPC with artificial references and related concepts, the following paper and the references therein are recommended:  
 
 1. **Limon, D., Ferramosca, A., Alvarado, I. and Alamo, T.**  
    *"Nonlinear MPC for tracking piece-wise constant reference signals."*  
